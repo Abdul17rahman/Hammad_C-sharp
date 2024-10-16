@@ -1,0 +1,209 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow-x: hidden;
+}
+
+/* Styling for the side Menu*/
+
+/* Side Menu */
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+  }
+  
+  .sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+  }
+  
+  .sidenav a:hover {
+    color: #f1f1f1;
+  }
+  
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+#menu{
+    display: none;
+    color: #9F336B;
+}
+#navform a{
+    margin: 5px !important;
+    background-color: #9F336B;
+}
+#navform a:hover{
+  background-color: #FFCC12 !important;
+}
+#navh{
+  font-weight: bold !important;
+  color: #9F336B;
+}
+#navform a:hover{
+    background-color: #ccc;
+    color: #333;
+}
+
+/* Showcase */
+.showcase{
+  background: url(../images/sch.jpg) no-repeat center/cover;
+  width: 100%;
+  position: relative;
+  height: 78vh;
+}
+.showcasehead{
+  text-align: center;
+  margin-top: 25vh;
+}
+.showcasehead h1{
+  font-weight: bold;
+}
+.showcasehead p{
+  font-size: 1.5rem;
+}
+.login{
+  background-color: #FFCC12;
+}
+.login h4{
+  margin-top: 15px;
+  font-weight: bold;
+  color: #9F336B;
+  text-align: center;
+}
+.log-form{
+  border: #9F336B 2px solid;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 10px;
+}
+#LoginBtn{
+  display: block !important;
+  width: 100% !important;
+  margin:20px 0 10px 0;
+  padding:10px;
+}
+#Loginform label{
+  font-weight: bold;
+  text-align: left !important;
+}
+#Loginform p{
+  font-weight: bold;
+  color: red;
+  padding: 5px;
+  display: none;
+}
+#forgot{
+  color: red;
+  font-weight: bold;
+}
+.pass-le{
+  font-weight: bold;
+  color: red !important;
+}
+.error{
+  border: 1.5px red solid;
+}
+#reset-pas{
+  background-color: #9F336B !important;
+  color: #f1f1f1 !important;
+}
+#reset-pas label, h5{
+  font-weight: bold;
+}
+
+#about-section{
+  margin:  0.9rem 0 0.5rem 0.9rem;
+  background-color: #FFCC12;
+  border-radius: 0.9rem;
+  padding: 0.8rem;
+}
+#about-section h4{
+  font-weight: bold;
+  padding-top: 0.8rem;
+}
+#about-section p{
+  padding-bottom: 0.8rem;
+}
+#contact{
+  margin: 0.8rem 0.8rem 0.5rem 0;
+  background-color: #333;
+  color: #f4f4f4;
+  padding: 0.8rem;
+}
+#contact hr{
+  background-color: #f1f1f1;
+}
+#footer{
+  background-color: #9F336B;
+  height: 3rem;
+  text-align: center;
+  font-size: 1rem;
+  padding: 10px;
+  color: #f1f1f1;
+}
+/*Styling for the Sign Up form*/
+#signup-modal{
+  background-color: #FFCC12;
+}
+#signup-modal h4{
+  color: #9F336B;
+  font-weight: bold;
+}
+#signup-modal p{
+  color: red;
+  font-weight: bold;
+}
+#signup-modal label, legend{
+  font-weight: bold;
+}
+.modal-body #Logierror{
+  display: none;
+}
+
+
+
+
+
+
+
+  /*Media Queries*/
+  @media(max-width: 760px){
+    #menu{
+        display: block;
+    }
+    #navform{
+        display: none;
+    }
+    #about-section{
+      margin: 0;
+      border-radius: 0;
+    }
+    #contact{
+      margin: 0;
+    }
+    #footer{
+      height: 4.5rem;
+    }
+  }
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  }
+

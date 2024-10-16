@@ -1,0 +1,41 @@
+C:\Users\user\Desktop\Hammad CMS\Hamad\Hamad\bin\roslyn\csc.exe
+C:\Users\user\Desktop\Hammad CMS\Hamad\Hamad\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\Hammad CMS\Hamad\Hamad\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\Hammad CMS\Hamad\Hamad\bin\roslyn\csi.exe
+C:\Users\user\Desktop\Hammad CMS\Hamad\Hamad\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\Hammad CMS\Hamad\Hamad\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\Hammad CMS\Hamad\Hamad\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\Hammad CMS\Hamad\Hamad\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\Hammad CMS\Hamad\Hamad\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\Hammad CMS\Hamad\Hamad\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\Hammad CMS\Hamad\Hamad\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\Hammad CMS\Hamad\Hamad\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\Hammad CMS\Hamad\Hamad\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\Hammad CMS\Hamad\Hamad\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\Hammad CMS\Hamad\Hamad\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\Hammad CMS\Hamad\Hamad\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\Hammad CMS\Hamad\Hamad\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\Hammad CMS\Hamad\Hamad\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\Hammad CMS\Hamad\Hamad\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\Hammad CMS\Hamad\Hamad\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\Hammad CMS\Hamad\Hamad\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\Hammad CMS\Hamad\Hamad\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\Hammad CMS\Hamad\Hamad\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\Hammad CMS\Hamad\Hamad\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\Hammad CMS\Hamad\Hamad\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\Hammad CMS\Hamad\Hamad\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\Hammad CMS\Hamad\Hamad\bin\Hamad.dll.config
+C:\Users\user\Desktop\Hammad CMS\Hamad\Hamad\bin\Hamad.dll
+C:\Users\user\Desktop\Hammad CMS\Hamad\Hamad\bin\Hamad.pdb
+C:\Users\user\Desktop\Hammad CMS\Hamad\Hamad\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\Hammad CMS\Hamad\Hamad\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\Hammad CMS\Hamad\Hamad\obj\Debug\Hamad.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Hammad CMS\Hamad\Hamad\obj\Debug\Hamad.dll
+C:\Users\user\Desktop\Hammad CMS\Hamad\Hamad\obj\Debug\Hamad.pdb
+C:\Users\user\Desktop\My Projects\Ready\Hammad CMS\Hamad\Hamad\obj\Debug\Hamad.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\My Projects\Ready\Hammad CMS\Hamad\Hamad\obj\Debug\Hamad.dll
+C:\Users\user\Desktop\My Projects\Ready\Hammad CMS\Hamad\Hamad\obj\Debug\Hamad.pdb
+C:\Users\user\Desktop\myProjects\Ready\Hammad C-sharp\Hamaad_C-sharp\Hamad\obj\Debug\Hamad.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\myProjects\Ready\Hammad C-sharp\Hamaad_C-sharp\Hamad\obj\Debug\Hamad.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\myProjects\Ready\Hammad C-sharp\Hamaad_C-sharp\Hamad\obj\Debug\Hamad.dll
+C:\Users\user\Desktop\myProjects\Ready\Hammad C-sharp\Hamaad_C-sharp\Hamad\obj\Debug\Hamad.pdb
